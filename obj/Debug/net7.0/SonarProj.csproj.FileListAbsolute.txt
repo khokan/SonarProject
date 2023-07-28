@@ -1,0 +1,15 @@
+D:\Projects\Azure-DevOps\SonarProj\bin\Debug\net7.0\SonarProj.exe
+D:\Projects\Azure-DevOps\SonarProj\bin\Debug\net7.0\SonarProj.deps.json
+D:\Projects\Azure-DevOps\SonarProj\bin\Debug\net7.0\SonarProj.runtimeconfig.json
+D:\Projects\Azure-DevOps\SonarProj\bin\Debug\net7.0\SonarProj.dll
+D:\Projects\Azure-DevOps\SonarProj\bin\Debug\net7.0\SonarProj.pdb
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.csproj.AssemblyReference.cache
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.AssemblyInfoInputs.cache
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.AssemblyInfo.cs
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.csproj.CoreCompileInputs.cache
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.dll
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\refint\SonarProj.dll
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.pdb
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\SonarProj.genruntimeconfig.cache
+D:\Projects\Azure-DevOps\SonarProj\obj\Debug\net7.0\ref\SonarProj.dll
